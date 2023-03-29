@@ -1,4 +1,5 @@
 # TableauAffichage
+-> Destiné à servir au lycée de la mer
 
 Mise en place:
 
