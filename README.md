@@ -12,6 +12,7 @@ Mise en place:
 Détails:
 
 Poppler est un package qui permet la conversion de pdf en png.
-Attention aux dépendances, pensez à faire pip install
--> tkcalendar
--> Pillow
+Attention aux dépendances, pensez à faire pip install.
+Liste des dépendances:
+- tkcalendar
+- pillow
