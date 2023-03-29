@@ -1,0 +1,132 @@
+.bc
+{
+  font-family: arial;
+  background: rgb(43,72,199);
+  background: linear-gradient(0deg, rgba(43,72,199,1) 0%, rgba(132,170,212,1) 36%, rgba(162,212,242,1) 69%, rgba(255,255,255,1) 100%) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.sombre
+{
+  font-family: arial;
+  background: #2a2a2a;
+  color: white;
+}
+.vw2
+{
+  background-image: url('kok2.png');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Arial';
+}
+h1
+{
+  font-size: 32px;
+  color: white;
+}
+
+.actif
+{
+  color: green;
+
+}
+.vw2 .actif
+{
+  color: lime;
+  -webkit-text-stroke: 1px rgb(12, 59, 36);
+}
+.rouge{
+  color: red;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+  padding: 10px;
+}
+.vw2 .passe
+{
+  color: rgb(255, 255, 255);
+}
+.first
+{
+  color: white;
+  margin-top:30px;
+  text-align: center;
+  width: 45%;
+  border-bottom: 5px solid;
+  padding-bottom: 20px;
+}
+.second
+{
+  text-align: center;
+  width: 45%;
+}
+.taille0
+{
+  font-size: 30px;
+  text-align: left;
+  color: white;
+}
+.taille1
+{
+  font-size: 22px;
+  text-align: left;
+  color: white;
+}
+.taille2
+{
+  font-size: 18px;
+  text-align: left;
+  color: white;
+}
+.taille3
+{
+  font-size: 20px;
+  text-align: left;
+  color: white;
+  white-space: nowrap;
+}
+aside {
+  position:absolute;
+  top:10px;
+  right:10px;
+  width: 45%;
+  text-align: center;
+}
+
+aside img {
+  width: 600px;
+  max-height: 950px;
+
+}
+.imagelycee
+{
+  width: 200px;
+  position:absolute;
+  bottom: 0px;
+  left: 0px;
+}
+.texte
+{
+  font-family: 'Arial Black';
+  font-size: 24px;
+}
+.textebasdroite
+{
+  position: absolute;
+  bottom: 10px;
+  left: 11%;
+  font-family: Arial;
+  font-size: 14px;
+}
+.textebasdroite span
+{
+  background-color: white; 
+  margin: 10px;
+  padding: 10px;
+}
+.customcolor1{
+  color:rgb(245, 0, 0)
+}
